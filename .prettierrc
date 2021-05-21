@@ -1,0 +1,6 @@
+{
+  "singleQuete": true,
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "endOfline": "auto"
+}
